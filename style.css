@@ -1,0 +1,100 @@
+/* Body ==> Header */
+.logo
+{
+    float:CENTER; margin: 0px 0 0px;
+}
+.title-important{
+    color:steelblue
+}
+.header{
+    text-align: center;
+}
+
+
+                                                            /* Body ==> Nav */
+
+
+                                                            /* Body */
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color:khaki;
+    margin:16px;
+}
+
+                                                            /* Les titres et sous-titres */
+h2{
+    color:red;  
+    text-align:center;
+}
+h3{
+    color:grey;
+}
+.sous-titre-reine , .sous-titre-plage{
+    text-align: center;
+}
+h4{
+    color:red;
+    padding:10px;
+}
+
+                                                            /* Les Images */
+.petit-logo{
+    height:30px;
+    float:auto;
+    margin:auto;
+}
+.logo-action{
+    height: 30px;
+    width: 50px;
+    margin:auto;
+}
+.logo-conseils{
+    height: 40px;
+    width: 40px;
+    margin:auto;
+}
+.img-thumbnail{
+    height:300px;
+    width:300px;
+    display:block;
+    margin :auto
+}
+.plage{
+    height:300px;
+    width:700px;
+    display:block;
+    margin :auto; 
+}
+.tour-eiffel{
+    height:300px;
+    width:400px;
+    display:block;
+    margin :auto; 
+}
+.logo-contact{
+    height: 40px;
+    width: 40px;
+    margin:auto;
+}
+
+                                                        /* Paragraphes, listes et liens */
+
+p , .liste-conseils , .liste-puces{
+    color:black;
+    font-size:16px;
+}
+a:hover{
+    color:rgb(92, 65, 16);
+    text-decoration: none;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.navbar-dark
+
+                                                            /* Footer */
+.adresse , #contact , .titre-coordonnées{
+    display: block;
+    position:relative;
+    text-align:center;
+    color:green;
+}
