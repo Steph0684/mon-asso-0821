@@ -4,7 +4,7 @@
     float:CENTER; margin: 0px 0 0px;
 }
 .title-important{
-    color:steelblue
+    color:green;
 }
 .header{
     text-align: center;
@@ -23,17 +23,17 @@ body{
 
                                                             /* Les titres et sous-titres */
 h2{
-    color:red;  
+    color:green;
     text-align:center;
 }
 h3{
-    color:grey;
+    color:indigo;
 }
 .sous-titre-reine , .sous-titre-plage{
     text-align: center;
 }
 h4{
-    color:red;
+    color : indigo;
     padding:10px;
 }
 
